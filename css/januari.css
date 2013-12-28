@@ -11,3 +11,8 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.boxed {
+      border: 1px solid black;
+      background: lightgrey;
+  }
