@@ -13,6 +13,9 @@ body {
 }
 
 .boxed {
-      border: 1px solid black;
-      background: lightgrey;
+   padding-left: 10px;
+    background: rgba(255, 255, 255, 0.4); 
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+    -moz-border-radius: 15px;
+    border-radius: 15px;
   }
