@@ -6,19 +6,9 @@ body {
 
 .full {
   background: url(../photos/01januari_kalendar.jpg) no-repeat center center fixed; 
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
+  -webkit-background-size: cover;
+  -moz-background-size:  cover;
+  -o-background-size:   cover;
+  background-size:   cover;
 }
 
-/* .boxed {
-   padding:5px 10px;
-    background: rgba(255, 255, 255, 0.4); 
-    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
-    -moz-border-radius: 15px;
-    border-radius: 15px;
-  }
-
-.container h1 {font-family: 'Neucha', cursive;}
-.container p {font-family: 'Neucha', cursive;} */
