@@ -1,0 +1,11 @@
+.page-header h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.gallery.container {
+    margin-bottom: 70px;
+}
+.navbar-inverse {
+    background-color: #000;
+}
