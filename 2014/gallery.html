@@ -16,7 +16,7 @@
 $(document).ready(function() {
    $('.gallery').each(function() {
        $(this).magnificPopup({
-           delegate: 'a', // the selector for gallery item
+           delegate: '.image-link', // the selector for gallery item
            type: 'image',
            gallery: { enabled:true, preload: [1,3] }
        });
